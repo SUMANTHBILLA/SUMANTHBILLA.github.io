@@ -1,0 +1,35 @@
+body {
+  font-size: 20px;
+  background-color: #D1E8E4;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #AAA492;
+  border-width: thick;
+  width: 5%
+}
+h1  {
+color:#79B4B7
+}
+h2{
+  color: #66bfbf
+
+}
+h3{
+  color:  #66bfbf
+}
+/********************this is tag selector*******************/
+/*img {
+  background-color: red;
+} */
+/********************this is class selector****************/
+/*
+.logo {
+  background-color: green;
+}*/
+/*********************this is id selector****************/
+#log {
+  background-color: #79B4B7;
+}
